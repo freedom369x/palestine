@@ -20,13 +20,3 @@
 
 This project is fully open source and welcomes contributions.  
 Feel free to fork, suggest improvements, or open a PR.
-
----
-
-### ⚖️ License
-
-Released under the [MIT License](LICENSE)
-
----
-
-**#FreePalestine • #OpenSource • #DesignForJustice**
