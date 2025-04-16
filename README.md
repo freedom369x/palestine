@@ -2,8 +2,8 @@
 
 Create a Palestine-themed profile picture to show your support.
 
-**🇵🇸 Live site:** [Visit!](freedom369x.github.io/palestine)  
-**How to use:** [YouTube Tutorial](https://youtube.com/shorts/eWlVGZ55B7A)
+**Live site:** [Visit!](freedom369x.github.io/palestine)  
+**How to use:** [Tutorial](https://youtube.com/shorts/eWlVGZ55B7A)
 
 ---
 
