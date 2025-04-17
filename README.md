@@ -18,5 +18,5 @@
 
 ### 🛠️ Open Source
 
-This project is fully open source and welcomes contributions.  
+> This project is fully open source and welcomes contributions.  
 Feel free to fork, suggest improvements, or open a PR.
